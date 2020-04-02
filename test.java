@@ -3,6 +3,7 @@ public class Test{
 	system.out.println("Hello");
 	system.out.println("Hello World");
 	system.out.println("coolfix add");
-	sustem.out.prontln("master add");
+	system.out.println("master add");
+	system.out.println("coolfix add2");
    }
 }
