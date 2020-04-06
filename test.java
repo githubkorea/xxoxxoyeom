@@ -5,5 +5,6 @@ public class Test{
 	system.out.println("coolfix add");
 	system.out.println("master add");
 	system.out.println("coolfix add2");
+	system.out.println("home");
    }
 }
