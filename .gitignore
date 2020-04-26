@@ -1,2 +1,3 @@
 # 확장자가 txt인 파일은 무시하겠다 
 *.txt
+/Test.class

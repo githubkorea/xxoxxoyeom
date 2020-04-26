@@ -2,5 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse/java-2020-03/eclipse/jlayer1.0.1.zip"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse/java-2020-03/eclipse/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/eclipse/lombok.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
